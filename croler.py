@@ -34,7 +34,7 @@ def crawl(pages, depth=2):
 
 
 if __name__ == "__main__":
-    urls = ["http://news.yahoo.co.jp/"]
+    urls = ["http://example.co.jp/"]
 
     pages = crawl(urls)
 
