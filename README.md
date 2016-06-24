@@ -1,7 +1,7 @@
 # KishotenketsuFormulation
 
 ##Explanation
-This is KishotenketsuFormulation for many utility values.
+This is kishotenketsu formulation for many utility values.
 Using doc2vec, word2vec, document filter.
 
 ## What's Kishotenketsu
